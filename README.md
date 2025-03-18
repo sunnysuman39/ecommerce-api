@@ -28,6 +28,5 @@ Follow these steps to set up the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sunnysuman39/ecommerce-api.git
-   cd laravel-product-api
+   https://github.com/sunnysuman39/ecommerce-api/tree/master
 
