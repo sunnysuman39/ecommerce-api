@@ -6,7 +6,7 @@ This is a Laravel project that provides an API for creating, reading, updating, 
 
 ## Features
 
-- **Create Product**: Allows users to create a new product with details such as name, description, price, etc.
+- **Create Product**: Allows to create a new product with details such as name, description, price, quantity, image_url.
 - **Read Products**: Fetch a list of all products or a single product by ID.
 - **Update Product**: Modify the details of an existing product.
 - **Delete Product**: Remove a product from the system.
@@ -19,7 +19,7 @@ Before getting started, ensure that you have the following installed:
 - PHP >= 7.4
 - Composer
 - Laravel 8.x or above
-- MySQL (or any other database supported by Laravel)
+- MySQL (ecommerce_db)
 - Postman or any other API testing tool (for testing the API)
 
 ## Installation
